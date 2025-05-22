@@ -1,0 +1,4 @@
+requests
+pyyaml
+rich        # pour CLI stylée
+streamlit   # optionnel pour l’UI web
